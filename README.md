@@ -1,0 +1,1 @@
+# thailand-living-essential.2
