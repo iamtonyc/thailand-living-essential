@@ -1,0 +1,29 @@
+.tonyCaption  {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+  }
+
+.tonySpan {
+    background-color:#111;
+    color: #fff;
+    padding: 18px;
+    font-size: 35px;
+    letter-spacing: 10px;
+  }
+
+.tonyBackground {
+    /* The image used */
+    background-image: url("../assets/krafBangnaImage.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
