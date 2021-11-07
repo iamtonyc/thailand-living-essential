@@ -1,4 +1,4 @@
-# thailand-living-essential.2
+# thailand-living-essential
 
 git add . 
 git commit -m "first commit"  
