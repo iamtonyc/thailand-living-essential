@@ -28,8 +28,8 @@
     background-size: cover;
   }
 
-.tonyWrapper {
-    background: url('"../assets/krafBangnaImage.jpg') no - repeat center center fixed; 
+ body {
+    background: url('../assets/krafBangnaImage2.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover; 
     -moz-background-size: cover;
     -o-background-size: cover;
